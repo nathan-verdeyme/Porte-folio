@@ -127,7 +127,7 @@ footer{
 	padding-right: 30px;
 }
 
-.poisson, .coivoit,.jeu,.biblio,.tp,.fifa,.cata{
+.poisson,.coivoit,.jeu,.biblio,.tp,.fifa,.cata{
 	width: 30%;
 	height: auto;
 	text-align: center;
@@ -156,7 +156,7 @@ img{
 .inv {
 	display: none;
 }
-.poisson:hover .inv,.coivoit:hover .inv,.jeu:hover .inv, .biblio:hover .inv,.fifa:hover .inv,.tp:hover .inv,.cata:hover .inv{
+.poisson:hover .inv, .coivoit:hover .inv, .jeu:hover .inv, .biblio:hover .inv, .fifa:hover .inv, .tp:hover .inv, .cata:hover .inv{
 	display: block;
 }
 .bleu{
